@@ -1,0 +1,28 @@
+#include <stdio.h>
+#include <unistd.h>
+#include <ft_putchar.c>
+
+int main()
+{
+if (x < 1 \\ y < 1)
+{
+ft_putchar('erro')
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+

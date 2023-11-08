@@ -1,0 +1,36 @@
+brotlipy @ file:///Users/runner/miniforge3/conda-bld/brotlipy_1648854223204/work
+certifi==2022.12.7
+cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1666183858726/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1661170624537/work
+click @ file:///Users/runner/miniforge3/conda-bld/click_1651215218291/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography_1637687411325/work
+filelock @ file:///home/conda/feedstock_root/build_artifacts/filelock_1679619845525/work
+huggingface-hub @ file:///home/conda/feedstock_root/build_artifacts/huggingface_hub_1679329705182/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+importlib-metadata @ file:///Users/runner/miniforge3/conda-bld/importlib-metadata_1653252899114/work
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1663332044897/work
+nltk @ file:///home/conda/feedstock_root/build_artifacts/nltk_1672696305909/work
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1649806371302/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1673482170163/work
+Pillow==9.4.0
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1608055815057/work
+PySocks @ file:///Users/runner/miniforge3/conda-bld/pysocks_1648857315402/work
+PyYAML @ file:///Users/runner/miniforge3/conda-bld/pyyaml_1648757137033/work
+regex @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_978efa21-43f5-4f43-9f25-acd8393817ddce2xcjaf/croots/recipe/regex_1658257186496/work
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1673863902341/work
+scikit-learn @ file:///Users/runner/miniforge3/conda-bld/scikit-learn_1640464192339/work
+scipy @ file:///Users/runner/miniforge3/conda-bld/scipy_1637806768271/work
+sentence-transformers @ file:///home/conda/feedstock_root/build_artifacts/sentence-transformers_1656297135090/work
+sentencepiece==0.1.95
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1643647933166/work
+tokenizers @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_268e8965-102b-48a5-a916-a216550453a11s7pxtzt/croots/recipe/tokenizers_1651822590419/work
+torch @ file:///Users/runner/miniforge3/conda-bld/pytorch-recipe_1660136152924/work
+torchvision @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_b64c8kdd72/croot/torchvision_1670313553427/work
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1677948868469/work
+transformers @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_0fwztwlw96/croot/transformers_1667921642940/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1678559861143/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1678635778344/work
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1677313463193/work

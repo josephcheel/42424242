@@ -1,0 +1,6 @@
+Credentials cache: API:63FAFEBC-A1CE-4B14-A9C5-7766A4CF8B1B
+        Principal: jcheel-n@42BARCELONA.COM
+
+  Issued                Expires               Principal
+Oct 30 12:05:56 2021  Oct 30 22:05:56 2021  krbtgt/42BARCELONA.COM@42BARCELONA.COM
+Oct 30 12:05:58 2021  Oct 30 22:05:56 2021  HTTP/student-storage.42barcelona.com@42BARCELONA.COM

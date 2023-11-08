@@ -1,0 +1,24 @@
+---------------------- License for Natanael Antonioli's Tilesets ----------------------
+
+This license is valid for any of my graphical assets you got on Itch.io, be it paid or free. 
+
+With these graphical assets, you can:
+
+- Use in any kinds, platforms and genres of electronic games. Just try not to make something that would put you in jail. That's bad propaganda.
+- Use in promotion materials for your game. 
+- Use in any engine.
+- Modify in any way for your use, but knowing this license will still apply whatever you do.
+- Use in any number of games. 
+- Use in other people's games as long as you are part of the development team. 
+
+However, you can't:
+
+- Redistribute it in any way, be it for free or selling. 
+- Use it for things that are not related to an electronic game. 
+
+It's always nice if you do, but you don't need to credit me in anyway when using my tiles. 
+
+If your situation is not covered here, contact me! I'll be more than pleased to help.
+
+---------------------------------------------------------------------------------------
+

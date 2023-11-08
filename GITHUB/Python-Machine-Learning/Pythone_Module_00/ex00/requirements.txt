@@ -1,0 +1,2 @@
+  - python=3.10.9=h218abb5_0
+  - python.app=3=py310hca72f7f_0
